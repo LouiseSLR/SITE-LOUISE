@@ -1,0 +1,45 @@
+.Card4 {
+	padding: 20px;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	background-position: center;
+	align-items: center;
+	background-color: #FAEBD7;
+	border-radius: 6px;
+}
+
+.Card4 img {
+	width:300px;
+	height:200px;
+	border-radius: 6px;
+	position: all;
+}
+
+.Card4 {
+  display: flex;
+flex-wrap: wrap;
+}
+.Card4 {
+  flex-basis: 6px;
+	flex-grow: 1;
+	margin: 10px;
+}
+
+.Card4a h2 {
+	font-family:'URW Chancery L', serif;
+	font-size: 35px;
+    font-weight: 100;
+    text-align: center;
+}
+.Card4a {
+	padding: 20px;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	background-position: center;
+	align-items: center;
+	background-color: #C9AB95;
+	border-radius: 6px;
+}
+

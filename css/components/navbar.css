@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+    padding: 24px;
+    background-color: #C9AB95;
+}
+.navbar a {
+	font-family:'URW Chancery L', serif;
+	font-style: oblique;
+	font-weight: 400;
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	padding: 12px 32px;
+	background-color: white;
+	border-radius: 8px;
+}
+
+.navbar a:hover {
+	font-size: 24px;
+	padding: 8px 28px;
+	background-color: black;
+	border-radius: 8px;
+	color: #C9AB95;
+	transition: 0.5s;
+}

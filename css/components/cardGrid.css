@@ -1,0 +1,46 @@
+
+.cardGrid {
+	padding: 20px;
+    display: inline-block;
+	align-items: center;
+	justify-content: space-around;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 6px;
+	margin: 10px;
+	background-color: white;
+	flex-basis: 250px;
+	flex-grow: 1;
+	background-color: #FAEBD7;
+}
+
+.cardGrid img {
+	width: 200px;
+	border-radius: 6px;
+}
+
+.cardGrid1 {
+    padding: 20px;
+    display: inline-block;
+	align-items: center;
+	justify-content: space-around;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 6px;
+	margin: 10px;
+	background-color: white;
+	flex-basis: 250px;
+	background-color:#C9AB95;
+}
+
+.cardGrid1 h1{
+	font-family:'URW Chancery L', serif;
+	font-size: 35px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.cardGrid h2{
+	font-family:'URW Chancery L', serif;
+	font-size: 25px;
+    font-weight: 100;
+}
+

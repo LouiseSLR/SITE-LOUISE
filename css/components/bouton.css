@@ -1,0 +1,13 @@
+.bouton {
+	text-decoration: none;
+    color: white;
+	border-radius: 100px;
+	background-color: #C9AB95;
+	padding: 12px 12px;
+	font-size: 25px;
+	font-style: oblique;
+}
+
+.bouton:hover {
+	opacity: 0.7;
+}
